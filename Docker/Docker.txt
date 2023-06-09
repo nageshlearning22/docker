@@ -16,8 +16,17 @@ docker rename <oldcont> <newcont>
 docker export <cont> -o  <filename>
 docker cp  <container>:<containerpath> <hostpath>
 
+https://docs.docker.com/compose/gettingstarted/              ---------------> Flask
+https://docs.docker.com/compose/gettingstarted/       ------> docker-compose up
+https://karthi-net.medium.com/how-to-scale-services-using-docker-compose-31d7b83a6648 ------------> Scale
+https://docs.docker.com/engine/reference/commandline/exec/   
+
+docker exec -it <container_name> bash
+docker exec -it <container> /bin/bash
 
 
+[16:57, 07/06/2023] .: https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask-application-using-docker-on-ubuntu-20-04
+[17:02, 07/06/2023] .: https://www.google.com/amp/s/www.freecodecamp.org/news/automate-docker-container-deployment-via-maven-53a855e26d3e/amp/
 
 
 
