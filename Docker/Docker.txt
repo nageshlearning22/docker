@@ -40,6 +40,58 @@ docker cp  <container>:<containerpath> <hostpath>
 
 
 
+nageshlearning22/recipe-app-api
+k8
+nageshlearning22/k8
+jenkins
+nageshlearning22/jenkins
+gradle
+nageshlearning22/gradle
+mavenproject
+nageshlearning22/mavenproject
+mavenjenkins
+nageshlearning22/mavenjenkins
+mavenadvance
+nageshlearning22/mavenadvance
+django2
+nageshlearning22/django2
+django1
+nageshlearning22/django1
+django
+nageshlearning22/django
+simpledjango
+nageshlearning22/simpledjango
+wingsjune22
+nageshlearning22/wingsjune22
+ansible
+nageshlearning22/ansible
+docker
+nageshlearning22/docker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
